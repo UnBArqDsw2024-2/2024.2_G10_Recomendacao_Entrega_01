@@ -6,4 +6,4 @@
 > Conecte-se, descubra e compartilhe experiências gastronômicas!
 
 
-[GitHub](https://github.com/UnBArqDsw2024-1/2024.1_G8_UnBreja)
+[GitHub](https://github.com/UnBArqDsw2024-2/2024.2_G10_Recomendacao_Entrega_01/)
